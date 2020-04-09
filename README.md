@@ -17,10 +17,6 @@ Código para o desafio de conceitos de nodejs do curso da Rocketseat.
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
-
-  <a href="https://github.com/Rocketseat/bootcamp-gostack-desafios/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/rocketseat/bootcamp-gostack-desafios?style=social">
-  </a>
 </p>
 
 ### Rotas da aplicação
