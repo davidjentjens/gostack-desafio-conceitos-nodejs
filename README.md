@@ -7,8 +7,8 @@ Código para o desafio de conceitos de nodejs do curso da Rocketseat.
   Desafio 02: Conceitos do Node.js
 </h3>
 
-<p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
-
+<p align="center">
+  
   <a href="https://rocketseat.com.br">
     <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
   </a>
